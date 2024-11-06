@@ -43,4 +43,4 @@ Welcome to my GitHub profile! I'm a passionate **Software Developer** with a str
 - **LinkedIn**: [linkedin.com/in/hrattan](https://www.linkedin.com/in/hrattan/)
 - **X**: [x.com/harsimar_rattan](https://x.com/harsimar_rattan)
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=Harsimar2000&theme=default&show_icons=true&hide_border=true&layout=compact
+
