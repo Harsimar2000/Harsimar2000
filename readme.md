@@ -31,45 +31,15 @@ Welcome to my GitHub profile! I'm a passionate **Software Developer** with a str
 
 ---
 
-## 💼 Experience
 
-**Associate Software Quality Engineer** at Introhive  
-*April 2023 - December 2023*  
-- Automated data setup/cleanup, significantly enhancing the quality team's efficiency.
-- Developed front-end test scripts using **Ruby** and **Selenium** for reliable UI deployment.
-- Collaborated on API test automation, ensuring high-priority APIs met quality standards.
-
-**Front End Developer** at Picketa Systems  
-*January 2022 - April 2022*  
-- Built a cross-platform desktop application using **Qt** and **Felgo** for real-time plant tissue analysis.
-
-**Back End Developer** at Sankara Cuisine  
-*September 2021 - December 2021*  
-- Developed features for the web store using **Python** and **SQL**.
-- Created a Product Recommendation API, boosting recurring customer rate by 24%.
-
----
 
 ## 🌟 Projects
 
 - **[CVpage.link](https://cvpage.link/harsimar)**: A link-in-bio digital resume tool built with **Next.js**, **Supabase**, and **TypeScript**. Gained 65+ sign-ups so far!
 - **[Profanity Check API](https://profanity-check.vercel.app/)**: An API for detecting profane language using **semantic search** for accurate content moderation.
 
----
-
-## 🏆 Awards
-
-- **First Prize** in Apex Competition (July 2020)  
-  Tackled parking issues at UNB with an innovative solution, Parking Wizards.
-- **UNB Academic Excellence Award** (September 2019)
-
----
-
 ## 📫 Let's Connect!
 
-- **Email**: [harsimar.rattan@gmail.com](mailto:harsimar.rattan@gmail.com)
 - **LinkedIn**: [linkedin.com/in/hrattan](https://www.linkedin.com/in/hrattan/)
-- **Phone**: 506-440-5299
-
-Thanks for stopping by! Feel free to explore my repositories and reach out if you'd like to collaborate or chat about software development!
+- **X**: [x.com/harsimar_rattan](https://x.com/harsimar_rattan)
 
