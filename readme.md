@@ -38,6 +38,8 @@ Welcome to my GitHub profile! I'm a passionate **Software Developer** with a str
 
 - **[CVpage.link](https://cvpage.link/harsimar)**: A link-in-bio digital resume tool built with **Next.js**, **Supabase**, and **TypeScript**. Gained 65+ sign-ups so far!
 - **[Profanity Check API](https://profanity-check.vercel.app/)**: An API for detecting profane language using **semantic search** for accurate content moderation.
+- **[Security Header Checker](https://github.com/Harsimar2000/security-header-checker)**: **Applied OWASP Secure Headers guidelines to build a lightweight Python CLI** that scans any URL, inspects its HTTP response headers and highlights missing or weak protections (CSP, HSTS, X-Frame-Options, etc.). The tool produces an actionable
+report in seconds, helping dev teams plug security gaps before release.
 
 ## 📫 Let's Connect!
 
