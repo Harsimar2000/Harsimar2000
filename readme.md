@@ -2,8 +2,8 @@
 
 Welcome to my GitHub profile! I'm a passionate **Software Developer** with a strong background in back-end development, test automation, and modern web technologies. I love building projects that solve real-world problems and streamline workflows.
 
-- 🎓 **Computer Science Student** at the University of New Brunswick, graduating December 2024.
-- 🌐 Currently working on projects using **Next.js**, **Supabase**, **TypeScript**, and **Golang**.
+- 🎓 **Computer Science Student** at the University of New Brunswick, graduated May 2025.
+- 🌐 Currently working on projects using **Next JS**, **Supabase**, **TypeScript**, **Golang** and **Node JS**.
 
 ---
 
